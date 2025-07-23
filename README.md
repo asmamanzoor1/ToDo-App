@@ -1,11 +1,6 @@
 # 📝 Java To-Do List App
 
-This is a simple **To-Do List application** built in **Java** as part of my **CISC 3130: Data Structures** class. The app allows users to:
-
-✅ Add new tasks  
-✅ View all current tasks  
-✅ Mark tasks as completed  
-✅ Practice working with data structures like **ArrayLists**
+This is a simple **To-Do List application** built in **Java** as part of my **CISC 3130: Data Structures** class. 
 
 ---
 
@@ -20,15 +15,9 @@ This is a simple **To-Do List application** built in **Java** as part of my **CI
 ## 🛠️ Tech Stack
 - **Language:** Java  
 - **Concepts:** ArrayLists, Classes, Loops, Conditionals  
-- **IDE Used:** Netbeans 
+- **IDE Used:** Netbeans
 
 ---
-
-## 📚 What I Learned
-- How to implement a dynamic task list using Java
-- How to manage data using Java's built-in data structures
-- Reinforced concepts like class design, user input, and loops
-
 ---
 
 ## 🧪 Sample Output
